@@ -1,0 +1,1 @@
+pip install librosa soundfile matplotlib numpy openai-whisper torch
