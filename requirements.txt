@@ -1,6 +1,6 @@
 streamlit
-torch
 openai-whisper
+torch
 librosa
 soundfile
 matplotlib
